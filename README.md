@@ -1,4 +1,3 @@
-````md
 # PersonaEngine v1.0.0
 
 A lightweight prompt-engineering framework for transforming standard language models into consistent conversational personalities with internal state, relational dynamics, and pseudo-memory.
